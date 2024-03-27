@@ -33,7 +33,7 @@ button {
     align-items: center;
     display: flex;
     justify-content: center;
-    
+    text-decoration: none;
 }
 h1 {
     font-family: "krona one",sans-serif;
